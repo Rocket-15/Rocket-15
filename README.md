@@ -1,4 +1,4 @@
-- 👋 Hello!, I am @Rocket-15
+- 👋 Hello!, I am Rocket-15
 - 👀 I am interested in Badminton, JavaScript, Html, Css, and Java
 - 🌱 I am currently learning JavaScript, Html, Css, and Java
 - 💞️ I am looking to collaborate on different projects
