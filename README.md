@@ -16,7 +16,7 @@ Tech I use: HTML | CSS | JavaScript | React | Node.js | Python | Cloud Dev | Jav
 
 - Photography and media are my creative outlets
 
-- Hobbies:Badminton, gym, exploring tech, building projects, and experimenting with AI
+- Hobbies: Badminton, gym, exploring tech, building projects, and experimenting with AI
   
 - John Wick is my favorite movie
 
